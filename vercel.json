@@ -1,0 +1,5 @@
+{
+  "buildCommand": "echo 'Portfolio is static - no build required'",
+  "outputDirectory": ".",
+  "framework": "other"
+}

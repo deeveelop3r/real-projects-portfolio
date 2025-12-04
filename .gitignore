@@ -1,0 +1,33 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+.gitkeep
+
+# Node (for future frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# PHP
+vendor/
+composer.lock
+
+# Laravel
+bootstrap/cache/
+storage/logs/
+
+# Vercel
+.vercel
